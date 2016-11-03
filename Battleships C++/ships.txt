@@ -1,0 +1,8 @@
+Scout	1	0	11	0
+Scout	1	0	12	0
+Scout	1	0	13	0
+Battleship	2	0	21	0
+Battleship	2	0	22	0
+Destroyer	3	0	31	0
+Destroyer	3	0	32	0
+AircraftCarier	4	0	41	0

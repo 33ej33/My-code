@@ -1,0 +1,8 @@
+The aim of this game is to find the correct path
+to connect dots which are the same colour.
+To do this you have to right clilck with the 
+mouse on a coloured circle and then click on 
+the grid where you want to draw the line until 
+you connect with the other the othre circle with 
+the same colour. To remove a drawn line click on 
+the circle where you have started the line.
